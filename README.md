@@ -1,2 +1,3 @@
-# Minecraft-Mod-Collab
-Collab with tyly04
+# Collaboration News Letter
+## For everyone:
+The prefered IDE is Intellij, this project implements IntelliJ (I know it says eclipse).
